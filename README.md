@@ -10,6 +10,6 @@ Read the blog post here: http://emilyjanemiller.com/2017/05/02/using-machine-lea
 
 ---------
 
-**Languages**: Python, HTML
-**Libraries**: BeautifulSoup, sklearn, pandas, matplotlib, seaborn
-**Methods**: Web scraping, regression
+**Languages**: Python, HTML  
+**Libraries**: BeautifulSoup, sklearn, pandas, matplotlib, seaborn  
+**Methods**: Web scraping, regression  
